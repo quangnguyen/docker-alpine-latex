@@ -1,4 +1,4 @@
-FROM alpine:3.12.5
+FROM alpine:3.14.0
 
 LABEL maintainer="mail@nguyenonline.com"
 
